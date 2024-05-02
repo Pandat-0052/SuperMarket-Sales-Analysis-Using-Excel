@@ -1,5 +1,7 @@
 # <p align ="center"> Supermarket Sales Data Analysis using Excel 🛒📊
 
+![Dashboard Preview](https://github.com/Pandat-0052/SuperMarket-Sales-Analysis-Using-Excel/blob/main/Capture.JPG)
+
 Welcome to my supermarket sales data analysis project! In this project, I explored and analyzed supermarket sales data using Excel to uncover valuable insights. From data sorting to sales trend forecasting, Excel proved to be an invaluable tool for extracting insights from the data.
 
 ## Project Overview:
@@ -21,10 +23,9 @@ Welcome to my supermarket sales data analysis project! In this project, I explor
 
 ## Repository Structure:
 
-- `data/`: Folder containing the dataset used for analysis.
-- `notebooks/`: Jupyter notebooks used for data analysis.
-- `charts/`: Folder containing visualizations generated during analysis.
-- `README.md`: Description of the project and its key components.
+- [`data/`](https://github.com/Pandat-0052/SuperMarket-Sales-Analysis-Using-Excel/blob/main/Supermarket.xlsb): Folder containing the dataset used for analysis.
+- [`pdf/`](https://github.com/Pandat-0052/SuperMarket-Sales-Analysis-Using-Excel/blob/main/Supermarket.pdf): Folder containing Q&A generated during analysis.
+- [`README.md`](https://github.com/Pandat-0052/SuperMarket-Sales-Analysis-Using-Excel/blob/main/README.md): Description of the project and its key components.
 
 ## Tools Used:
 
